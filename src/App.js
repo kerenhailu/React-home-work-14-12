@@ -30,6 +30,7 @@ class App extends Component{
             <button onClick={()=>this.hendleClick()}>add</button> */}
         <Item name={items} />
       </div>
+      // 
     );
   }
 }
